@@ -9,7 +9,7 @@
 具体的には、メッシュはオブジェクトの外形やモデルを定義するために使われる。
 
 <div align="center">
-    <img src=../img/sphere_mesh.png>
+    <img src=../Images/sphere_mesh.png>
     </br>
     <center>【球体のメッシュ】</center>
 </div>
@@ -47,7 +47,7 @@
 ### 【メッシュレンダラーでマテリアルを適用する】
 
 <div align="center">
-    <img src=../img/shpere_property.png>
+    <img src=../Images/shpere_property.png>
     </br>
     <center>【球体のプロパティ】</center>
     </br>
